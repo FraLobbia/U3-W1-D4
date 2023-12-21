@@ -40,7 +40,7 @@ class BookList extends Component {
 								md={4}
 								lg={3}
 								key={b.asin}
-								className="card-group my-2"
+								className="card-group my-2 flex-column"
 							>
 								<SingleBook book={b} />
 							</Col>

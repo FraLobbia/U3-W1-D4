@@ -9,6 +9,7 @@ import BookList from "./components/BookList";
 
 import fantasy from "./data/fantasy.json";
 import AllTheBooks from "./components/AllTheBooks";
+import CommentArea from "./components/CommentArea";
 
 function App() {
 	return (
